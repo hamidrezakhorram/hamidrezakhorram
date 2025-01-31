@@ -1,7 +1,6 @@
 ## Hi 👋 I'm hamidreza khorram 
 
 - 🔭 I’m currently working on website Backend project
-- 🌱 I’m currently learning Django and Flutter
 - 📫 How to reach me: hamid.khorram.2020@gmail.com
 
 
